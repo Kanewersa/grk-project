@@ -1,0 +1,3 @@
+/Users/giraffe/CLionProjects/zombies/libraries/imgui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/giraffe/CLionProjects/zombies/libraries/imgui/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giraffe/CLionProjects/zombies/libraries/imgui/cmake-build-debug/CMakeFiles/imgui.dir
